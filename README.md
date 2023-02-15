@@ -1,5 +1,5 @@
 ﻿# Mini-Amazon
- <h2>Link for the deployed site </h2><h4></h4>
+ <h2>Link for the deployed site :-</h2><h4>http://amazonmini.pages.dev/</h4>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
