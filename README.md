@@ -1,7 +1,21 @@
+<h1>Amazon Mini</h1>
+<p>This project is a mini clone of Amazon built using React JS and CSS. It includes several key features of the Amazon website, such as a product catalog, product details page, and shopping cart.</p>
 
+<h2>Features</h2>
 
+<ul>
+  <li>Browse products by category or search for specific products</li>
+  <li>View product details, including price, description, and reviews</li>
+</ul>
 
-
+<h2>Installation</h2>
+<p>To run the Amazon Mini project locally, follow these steps:</p>
+<ul>
+  <li>Clone the repository to your local machine.</li>
+  <li>Run npm install to install the necessary dependencies.</li>
+  <li>Run npm start to start the development server.</li>
+  <li>Navigate to http://localhost:3000 in your web browser to view the app.</li>
+</ul>
 
 # Getting Started with Create React App
 
