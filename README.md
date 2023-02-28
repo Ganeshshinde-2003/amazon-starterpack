@@ -17,6 +17,37 @@
   <li>Navigate to http://localhost:3000 in your web browser to view the app.</li>
 </ul>
 
+<h2>Contributing</h2>
+<p>We welcome contributions to the Amazon Mini project! If you'd like to contribute, please follow these steps:</p>
+
+<ul>
+  <li>Fork the repository and clone it to your local machine.</li>
+  <li>Create a new branch for your feature or bug fix.</li>
+  <li>Make your changes and commit them with clear commit messages.</li>
+  <li>Push your branch to your forked repository.</li>
+  <li>Submit a pull request to the original repository, describing your changes and the problem they solve.</li>
+</ul>
+
+<p>Before submitting your pull request, please make sure your code follows our coding standards and has been tested thoroughly.</p>
+
+<h1>Warning</h1>
+<p>Please note that the Amazon Mini project is designed to work best on laptop screens and tablet screens. The layout and functionality may not work as expected on smaller screens, such as mobile phones.
+
+We recommend using the Amazon Mini project on a laptop or tablet for the best user experience. If you do encounter issues on smaller screens, please let us know so we can work to address them.</p>
+
+<h2>Acknowledgements</h2>
+
+<p>I would like to thank the following open source libraries and resources used in this project:</p>
+
+<ul>
+  <li>React JS</li>
+  <li>React Routerli>
+  <li>CSS Modern Button</li>
+  <li>Font Awesome</li>
+</ul>
+
+<hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
