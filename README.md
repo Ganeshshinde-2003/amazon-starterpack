@@ -41,7 +41,7 @@ We recommend using the Amazon Mini project on a laptop or tablet for the best us
 
 <ul>
   <li>React JS</li>
-  <li>React Routerli>
+  <li>React Router</li>
   <li>CSS Modern Button</li>
   <li>Font Awesome</li>
 </ul>
