@@ -4,8 +4,8 @@
 <h2>Features</h2>
 
 <ul>
-  <li>Browse products by category or search for specific products</li>
-  <li>View product details, including price, description, and reviews</li>
+  <li>Browse products by category or search for specific productsl.</li>
+  <li>View product details, including price, description, and reviews.</li>
 </ul>
 
 <h2>Installation</h2>
